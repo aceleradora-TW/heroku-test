@@ -1,2 +1,2 @@
 
-web: java -jar build/libs/heroku-0.0.1-SNAPSHOT.jar
+web: java -jar build/libs/demo-0.0.1-SNAPSHOT.jar
